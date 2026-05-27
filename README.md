@@ -1,3 +1,8 @@
+## Related Technical Reports
+
+- [File Integrity Monitoring Tool Report](./file_integrity_monitoring_tool_report.pdf)
+- [Phishing Attack Simulation & Digital Forensic Investigation Report](./phishing_attack_simulation_digital_forensics_report.pdf)
+
 # File Integrity Monitoring Tool (FIM Java Project)
 
 ## Overview
